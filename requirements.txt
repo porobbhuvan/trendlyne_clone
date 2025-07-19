@@ -1,0 +1,7 @@
+streamlit
+plotly
+yfinance
+ta
+pandas
+scikit-learn
+# and any other dependencies like xgboost, numpy
